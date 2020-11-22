@@ -1,6 +1,6 @@
 {
-      "name": "SaitamaRobot",
-      "description": "An Anime themed Telegram group management bot.",
+      "name": "JohnnySins",
+      "description": "An top1 Porn Star Telegram group management bot.",
       "keywords": [
          "telegram",
          "anime",
@@ -8,7 +8,7 @@
          "manager",
          "Saitama"
       ],   
-   "repository": "https://github.com/AnimeKaizoku/SaitamaRobot",
+   "repository": "https://github.com/heavenjasmin/DrSins",
    "addons": [
       {
          "options": {
@@ -21,7 +21,7 @@
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
          "required": true,
-         "value": "1107407245:AAHdN9m8bxs76Oopgs0qdJIFTpuLjnGYBIE"
+         "value": "1361559412:AAEmf41s2TslTvldbAQRlxubHeIQ2g4UGgs"
       },
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
@@ -123,7 +123,7 @@
       "URL": {
          "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
          "required": false,
-         "value": "jackcooleewro.herokuapp.com"
+         "value": ""
       },
       "No_LOAD": {
          "description": "Dont load these modules cause they shit, space separation",
