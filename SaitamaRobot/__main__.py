@@ -81,7 +81,7 @@ SAITAMA_IMG = "https://cdn.telanganatoday.com/wp-content/uploads/2019/09/Johnny-
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer of the Base code, Paul
-There are two ways of supporting him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
+There are two ways of supporting him; [PayPal](pornhub.com), or [Monzo](xvideos.com)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -199,7 +199,7 @@ def start(update: Update, context: CallbackContext):
                 reply_markup=InlineKeyboardMarkup(
                     [[
                         InlineKeyboardButton(
-                            text="☑️ Add Saitama to your group",
+                            text="☑️ Add JohnnySins to your group",
                             url="t.me/{}?startgroup=true".format(
                                 context.bot.username))
                     ]]))
